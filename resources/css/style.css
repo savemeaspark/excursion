@@ -30,6 +30,11 @@ p {
   font-size: 21px;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 #icon {
   margin-top: 20px;
 }
